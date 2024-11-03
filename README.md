@@ -1,4 +1,4 @@
 # PolyDash
 Geometry Dash clone game
 
-DEMO: <code><a href="https://jeherillajanwar.github.io/PolyDash/">https://jeherillajanwar.github.io/PolyDash/</a></code>
+DEMO: <code><a href="https://ishaanSh06.github.io/PolyDash/">https://ishaanSh06.github.io/PolyDash/</a></code>
